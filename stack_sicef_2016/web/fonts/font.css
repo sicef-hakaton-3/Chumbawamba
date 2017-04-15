@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'MyriadApple-Text';
+  src: url('MyriadApple-Text.woff') format('woff'),
+       url('MyriadApple-Text.ttf') format('truetype'),
+       url('MyriadApple-Text.svg#MyriadApple-Text') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'regular';
+  src: url('regular.eot');
+  src: url('regular.woff2') format('woff2'),
+       url('regular.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
